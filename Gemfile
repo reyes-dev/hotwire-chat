@@ -19,6 +19,7 @@ gem "puma", "~> 5.0"
 gem "jbuilder"
 
 gem 'hotwire-rails'
+gem 'stimulus-rails'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
